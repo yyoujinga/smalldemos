@@ -1,3 +1,4 @@
 rootProject.name = "smalldemos"
 include ':app'
 include ':peripheraldevice'
+include ':musicplayercontrol'
